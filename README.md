@@ -1,19 +1,19 @@
 **turn mediafire into image storage service like imageshack, tinypic, flickr ect...**
 
-* [x] folders managment
-* [x] proxy supports
-* [x] uploading progress tracking
-* [x] reupload images to 20+ image sharing services
+* [x] [folders managment](https://i.postimg.cc/1zZJ255P/ure-Wiz848.png)
+* [x] [proxy supports](https://i.postimg.cc/DzVMhP69/Media-Fire-Images-jr7-Lp-MRLp-I.png)
+* [x] [uploading progress tracking](https://i.postimg.cc/7ZQqndxg/Media-Fire-Images-advhh-KIFO3.png)
+* [x] [reupload images to 20+ image sharing services](https://i.postimg.cc/pLKmGP6D/ure-Wiz847.png)
 * [x] no bandwidth, speed, count restriction
-* [x] multi image upload
-* [x] drag n drop upload
-* [x] thumbnails supported
-* [x] image search supported
-* [x] copy, move, delete, rename, change privacy
+* [x] [multi image upload ](https://github.com/jackkoolage/MediaFire-Images/wiki/folder-drag-n-drop)
+* [x] [drag n drop upload](https://i.postimg.cc/RhHrgH8L/Media-Fire-Images-Yo-Hv6mb-PPO.png)
+* [x] [thumbnails supported](https://github.com/jackkoolage/MediaFire-Images/wiki/thumbnails)
+* [x] [image search supported](https://i.postimg.cc/FRvLxMKP/ure-Wiz845.png)
+* [x] [copy, move, delete, rename, change privacy](https://i.postimg.cc/cH1JC0CN/ure-Wiz846.png)
 * [x] download multiable images
 * [x] download/upload folder
-* [x] upload zip images file
-* [x] get images url in 6 different formats:
+* [x] [upload zip images file](https://i.postimg.cc/SQcf9pyz/Media-Fire-Images-ik9lj8b2-Ca.png)
+* [x] [get images url in 6 different formats:](https://i.postimg.cc/C5jjjbkq/ure-Wiz849.png)
 1. Direct link
 1. Reddit Markdown
 1. Github Markdown
