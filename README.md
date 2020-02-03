@@ -28,8 +28,8 @@
 
 <br>
 
-![main](https://i.postimg.cc/qqVXJHqr/Media-Fire-Images-6-RSk-KTjiyb.png)
+![main](https://www.mediafire.com/convkey/5f831d25/5vzwgs85a25u7q0zg.jpg)
 
-![output](https://i.postimg.cc/QN1BkBNN/Media-Fire-Images-c0m-Fg-Yy-OMo.png)
+![output](https://www.mediafire.com/convkey/827823b1/1adtp39jmnpc9u3zg.jpg)
 
 ![with thumbnails](https://i.postimg.cc/SKnRXRth/Media-Fire-Images-PK8eq-QOQh-P.png)
